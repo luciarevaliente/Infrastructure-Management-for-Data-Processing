@@ -6,11 +6,11 @@ This repository contains all the reports of the practices I have done for the co
 
 The practices we have completed include:
 
-- **Practice 1**: Creation and connection of virtual machines (VM), DNS, SSH, NFS, and Apache. The report is `GIXPD - Pràctica1.pdf`.
-- **Practice 2**: CPU virtualization using Docker and Kubernetes. The report is `GIXPD - Pràctica2.pdf`.
-- **Practice 3**: Storage solutions and analysis including RAID, GlusterFS, and LVM. The report is `GIXPD - Pràctica3.pdf`.
-- **Practice 4**: Network Monitoring and analysis with Nagios4 and Netdata. The report is `GIXPD - Pràctica4.pdf`.
-- **Practice 5**: Infrastructure as Code with Ansible, Terraform, Docker, and Kubernetes. The report is `GIXPD - Pràctica5.pdf`.
+- `GIXPD - Pràctica1.pdf`*: Creation and connection of virtual machines (VM), DNS, SSH, NFS, and Apache. 
+- `GIXPD - Pràctica2.pdf`: CPU virtualization using Docker and Kubernetes. 
+- `GIXPD - Pràctica3.pdf`: Storage solutions and analysis including RAID, GlusterFS, and LVM. 
+- `GIXPD - Pràctica4.pdf`: Network Monitoring and analysis with Nagios4 and Netdata. 
+- `GIXPD - Pràctica5.pdf`: Infrastructure as Code with Ansible, Terraform, Docker, and Kubernetes. 
 
 Feel free to explore the reports for each practice!
 

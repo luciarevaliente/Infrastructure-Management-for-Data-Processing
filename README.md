@@ -24,10 +24,10 @@ En aquest repositori es troben tots els informes de les pràctiques que he reali
 
 Les pràctiques que hem realitzat inclouen:
 
-- `GIXPD - Pràctica1.pdf`: Creació i connexió de màquines virtuals (MV), DNS, SSH, NFS, Apache amb OpenNebula. L'informe és `GIXPD - Pràctica1.pdf`.
-- `GIXPD - Pràctica2.pdf`: Virtualització de CPU amb Docker i Kubernetes. L'informe és `GIXPD - Pràctica2.pdf`.
-- `GIXPD - Pràctica3.pdf`: Solucions d'emmagatzematge i anàlisi amb RAID, GlusterFS i LVM. L'informe és `GIXPD - Pràctica3.pdf`.
-- `GIXPD - Pràctica4.pdf`: Monitorització de xarxa i anàlisi amb Nagios4 i Netdata. L'informe és `GIXPD - Pràctica4.pdf`.
-- `GIXPD - Pràctica5.pdf`: Infraestructura com a codi amb Ansible, Terraform, Docker i Kubernetes. L'informe és `GIXPD - Pràctica5.pdf`.
+- `GIXPD - Pràctica1.pdf`: Creació i connexió de màquines virtuals (MV), DNS, SSH, NFS, Apache amb OpenNebula. 
+- `GIXPD - Pràctica2.pdf`: Virtualització de CPU amb Docker i Kubernetes. 
+- `GIXPD - Pràctica3.pdf`: Solucions d'emmagatzematge i anàlisi amb RAID, GlusterFS i LVM.
+- `GIXPD - Pràctica4.pdf`: Monitorització de xarxa i anàlisi amb Nagios4 i Netdata.
+- `GIXPD - Pràctica5.pdf`: Infraestructura com a codi amb Ansible, Terraform, Docker i Kubernetes. 
 
 No dubtis a explorar els informes de cada pràctica!
